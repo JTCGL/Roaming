@@ -1,0 +1,6 @@
+/*
+*/
+
+class makeme{
+	float num;
+};
