@@ -9,7 +9,7 @@ static list<thing> mystuff;
 
 void createdata() {
 	for(auto x=0; x<10;x++) {
-		std::string is=numtostr("viagithubupload_gitsync2025",x);
+		std::string is=numtostr("viagithubupload_gitsync2025_cunty",x);
 		//cout<<is<<"\n";
 		mystuff.push_back(thing(is));
 	}
