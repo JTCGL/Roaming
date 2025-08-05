@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/storage/emulated/0/repos/roaming",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/repos/roaming/include -I/storage/emulated/0/repos/roaming/src -Wall -std=c++17 -o CMakeFiles/Main.dir/src/main.cpp.o -c /storage/emulated/0/repos/roaming/src/main.cpp",
+  "file": "/storage/emulated/0/repos/roaming/src/main.cpp"
+},
+{
+  "directory": "/storage/emulated/0/repos/roaming",
+  "command": "/data/user/0/ru.iiec.cxxdroid/files/bin/clang++  -I/storage/emulated/0/repos/roaming/include -I/storage/emulated/0/repos/roaming/src -Wall -std=c++17 -o CMakeFiles/Main.dir/src/utils.cpp.o -c /storage/emulated/0/repos/roaming/src/utils.cpp",
+  "file": "/storage/emulated/0/repos/roaming/src/utils.cpp"
+}
+]
